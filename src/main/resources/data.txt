@@ -1,0 +1,4 @@
+
+insert into user (id, city, pincode, state, street, display_name, email, password, status, user_role) values (default, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+
+insert into authorization_token (id, expiration_date, time_created, token, user_id) values (default, ?, ?, ?, ?)

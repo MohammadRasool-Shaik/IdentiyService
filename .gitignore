@@ -1,1 +1,19 @@
-# Created by .ignore support plugin (hsz.mobi)
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/target/
+
+.classpath
+.project
+target/
+logs/
+.settings/
+
+.idea/
